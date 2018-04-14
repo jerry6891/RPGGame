@@ -2,5 +2,7 @@
 A action/adventure 2D Video Game(about a demon teenager that has to fight his way out of the possessed castle);therefore, this game is developed by the usage of phaser HTML5/Javascript Framework. 
 <br>
 <hr>
-<b>*Although, this project isn't finished completely.<b/>
+<b>*Although, this project isn't finished completely.<b/><br>
 
+![picture](https://raw.githubusercontent.com/jerry6891/RPGGame/master/assets/01.png)<br>
+![picture](https://raw.githubusercontent.com/jerry6891/RPGGame/master/assets/02.png)
